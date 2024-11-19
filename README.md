@@ -1,8 +1,12 @@
 # EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
-Experiment -2 
+Experiment -2
+
 Aim:
+
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
+
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
 
@@ -13,12 +17,15 @@ Circuit Diagram:
 
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
+
 Commands to get into Cadence
+
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
+•	virtuoso
+
 Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i)virtuoso/command interpreter window ii)”Whats New…”
@@ -32,6 +39,7 @@ v.	Analog simulation by spectre
 
 
 i)	Procedure for Creating New Library.
+
 •	File –New – Library
 •	Name : Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
