@@ -8,7 +8,7 @@ Tools Required:
 
 Circuit Diagram:
 
-![WhatsApp Image 2024-11-13 at 4 26 07 PM (1)](https://github.com/user-attachments/assets/d1dd41eb-aea3-4ba4-a446-15d11f756bfa)
+![WhatsApp Image 2024-11-13 at 4 26 08 PM (1)](https://github.com/user-attachments/assets/9112d4b0-4492-4e40-875d-2423fff5ce28)
 
 
 S C H E M A T I C S I M U L A T I O N
